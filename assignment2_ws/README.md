@@ -23,7 +23,9 @@ Folder Structure: ../assignment2_ws/src/assignment1b
 
 
 Screenshots - There "png" files showing the trajectory of turtle while running the baove 3 python files.
+
 src - This folder comprises of the source code for Task 2.
+
 Video - There "mkv" files shows the execution of python file and shows the trajectory of turtle while running the code.
 
 
